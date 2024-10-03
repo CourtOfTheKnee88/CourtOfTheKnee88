@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CourtOfTheKnee88
 - 👀 I’m interested in creating and designing websites
-- 🌱 I’m currently learning Tailwind CSS, CSS, HTML, and Java
+- 🌱 I’m currently learning Tailwind CSS, CSS, HTML, Python, JavaScript and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me courtneymjackson8@gmail.com
 - 😄 Pronouns: She/Her
